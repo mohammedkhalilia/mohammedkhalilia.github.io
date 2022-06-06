@@ -1,20 +1,27 @@
 ---
-title: 'Comprehend Medical: A Named Entity Recognition and Relationship Extraction Web Service'
+title: 'Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Parminder Bhatia
-  - Busra Celikkaya
+  - Robert Chen
+  - Hang Su
   - Mohammed Khalilia
-  - Selvan Senthivel
+  - Sizhe Lin
+  - Yue Peng
+  - Tod Davis
+  - Daniel A Hirsh
+  - Elizabeth Searles
+  - Javier Tejedor-Sojo
+  - Michael Thompson
+  - Jimeng Sun
 
-date: '2019'
-doi: '10.1109/ICMLA.2019.00297'
+date: '2015'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2015-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,24 +30,24 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
-publication_short: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+publication: AMIA Annual Symposium Proceedings
+publication_short: AMIA Annual Symposium Proceedings
 
-abstract: Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP). Additionally, the service provides relationship extraction for the detected entities as well as contextual information such as negation and temporality in the form of traits. Comprehend Medical provides two Application Programming Interfaces (API) 1) the NERe API which returns all the extracted named entities, their traits and the relationships between them and 2) the PHId API which returns just the protected health information contained in the text. Furthermore, Comprehend Medical is accessible through AWS Console, Java and Python Software Development Kit (SDK), making it easier for non-developers and developers to use.
+abstract: The predictive modeling process is time consuming and requires clinical researchers to handle complex electronic health record (EHR) data in restricted computational environments. To address this problem, we implemented a cloud-based predictive modeling system via a hybrid setup combining a secure private server with the Amazon Web Services (AWS) Elastic MapReduce platform. EHR data is preprocessed on a private server and the resulting de-identified event sequences are hosted on AWS. Based on user-specified modeling configurations, an on-demand web service launches a cluster of Elastic Compute 2 (EC2) instances on AWS to perform feature selection and classification algorithms in a distributed fashion. Afterwards, the secure private server aggregates results and displays them via interactive visualization. We tested the system on a pediatric asthma readmission task on a de-identified EHR dataset of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 2008–2010 Medicare Data Entrepreneurs’ Synthetic Public Use File dataset of 2 million patients, which achieves over 25-fold speedup compared to sequential execution.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Deep Learning, Named Entity Recognition, Clinical]
+tags: [Predictive Modeling, Clinical]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8999113'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765612/'
 url_code: ''
 url_dataset: ''
 url_poster: ''

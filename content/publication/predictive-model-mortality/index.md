@@ -1,20 +1,30 @@
 ---
-title: 'Comprehend Medical: A Named Entity Recognition and Relationship Extraction Web Service'
+title: 'Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Mengqi Jin
+  - Mohammad Taha Bahadori
+  - Aaron Colak
   - Parminder Bhatia
   - Busra Celikkaya
-  - Mohammed Khalilia
+  - Ram Bhakta
   - Selvan Senthivel
+  - Mohammed Khalilia
+  - Daniel Navarro
+  - Borui Zhang
+  - Tiberiu Doman
+  - Arun Ravi
+  - Matthieu Liger
+  - Taha Kass-hout
 
-date: '2019'
-doi: '10.1109/ICMLA.2019.00297'
+date: '2018'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2018-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,24 +33,23 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
-publication_short: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+publication: Machine Learning for Health (ML4H) Workshop at NeurIPS
+publication_short: Machine Learning for Health (ML4H) Workshop at NeurIPS
 
-abstract: Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP). Additionally, the service provides relationship extraction for the detected entities as well as contextual information such as negation and temporality in the form of traits. Comprehend Medical provides two Application Programming Interfaces (API) 1) the NERe API which returns all the extracted named entities, their traits and the relationships between them and 2) the PHId API which returns just the protected health information contained in the text. Furthermore, Comprehend Medical is accessible through AWS Console, Java and Python Software Development Kit (SDK), making it easier for non-developers and developers to use.
-
+abstract: Clinical text provides essential information to estimate the acuity of a patient during hospital stays in addition to structured clinical data. In this study, we explore how clinical text can complement a clinical predictive learning task. We leverage an internal medical natural language processing service to perform named entity extraction and negation detection on clinical notes and compose selected entities into a new text corpus to train document representations. We then propose a multimodal neural network to jointly train time series signals and unstructured clinical text representations to predict the in-hospital mortality risk for ICU patients. Our model outperforms the benchmark by 2% AUC.
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Deep Learning, Named Entity Recognition, Clinical]
+tags: [Predictive Modeling, Clinical, Deep Learning]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8999113'
+url_pdf: 'https://arxiv.org/abs/1811.12276'
 url_code: ''
 url_dataset: ''
 url_poster: ''

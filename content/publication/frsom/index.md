@@ -1,20 +1,18 @@
 ---
-title: 'Comprehend Medical: A Named Entity Recognition and Relationship Extraction Web Service'
+title: 'Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Parminder Bhatia
-  - Busra Celikkaya
   - Mohammed Khalilia
-  - Selvan Senthivel
+  - Mihail Popescu
 
-date: '2019'
-doi: '10.1109/ICMLA.2019.00297'
+date: '2014'
+doi: '10.1142/S0218488514500482'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2014-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,24 +21,24 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
-publication_short: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+publication: International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+publication_short: International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
 
-abstract: Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP). Additionally, the service provides relationship extraction for the detected entities as well as contextual information such as negation and temporality in the form of traits. Comprehend Medical provides two Application Programming Interfaces (API) 1) the NERe API which returns all the extracted named entities, their traits and the relationships between them and 2) the PHId API which returns just the protected health information contained in the text. Furthermore, Comprehend Medical is accessible through AWS Console, Java and Python Software Development Kit (SDK), making it easier for non-developers and developers to use.
+abstract: The notion of Best-Matching Unit (BMU) in the proposed Fuzzy Relational Self-Organizing (FRSOM) algorithm is replaced by a membership function where every neuron has a certain degree of matching to an input object. The FRSOM is an extension of the relational self-organizing map. In the proposed FRSOM we incorporate a monotonically increasing fuzzifier and a monotonically decreasing neighborhood kernel. Initially, FRSOM assigns winning neurons. However, as time progresses adjacent neurons begin communicating and sharing information about the stimulus received. The amount of information being shared at a given time is governed by the fuzzifier and the number of neurons sharing information is controlled by the neighborhood kernel. Additionally, in this paper we show that FRSOM is the relational dual of Fuzzy Batch SOM (FBSOM) followed by experimental results comparing both FBSOM and FRSOM on synthetic datasets. Then we will demonstrate the visualization and summarization capabilities of FRSOM on two real relational datasets, Gene Ontology and a patient data consisting of Activity of Daily Living score trajectories.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Deep Learning, Named Entity Recognition, Clinical]
+tags: [Clustering]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8999113'
+url_pdf: 'https://www.worldscientific.com/doi/abs/10.1142/S0218488514500482'
 url_code: ''
 url_dataset: ''
 url_poster: ''

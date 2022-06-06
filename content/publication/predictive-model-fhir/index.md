@@ -1,20 +1,22 @@
 ---
-title: 'Comprehend Medical: A Named Entity Recognition and Relationship Extraction Web Service'
+title: 'Clinical predictive modeling development and deployment through FHIR web services'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Parminder Bhatia
-  - Busra Celikkaya
   - Mohammed Khalilia
-  - Selvan Senthivel
+  - Myung Choi
+  - Amelia Henderson
+  - Sneha Iyengar
+  - Mark Braunstein
+  - Jimeng Sun
 
-date: '2019'
-doi: '10.1109/ICMLA.2019.00297'
+date: '2015'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2015-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,24 +25,24 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
-publication_short: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+publication: AMIA Annual Symposium Proceedings
+publication_short: AMIA Annual Symposium Proceedings
 
-abstract: Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP). Additionally, the service provides relationship extraction for the detected entities as well as contextual information such as negation and temporality in the form of traits. Comprehend Medical provides two Application Programming Interfaces (API) 1) the NERe API which returns all the extracted named entities, their traits and the relationships between them and 2) the PHId API which returns just the protected health information contained in the text. Furthermore, Comprehend Medical is accessible through AWS Console, Java and Python Software Development Kit (SDK), making it easier for non-developers and developers to use.
+abstract: Clinical predictive modeling involves two challenging tasks, model development and model deployment. In this paper we demonstrate a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. The MIMIC2 ICU dataset and a synthetic outpatient dataset were transformed into OMOP CDM databases for predictive model development. The resulting predictive models are deployed as FHIR resources, which receive requests of patient information, perform prediction against the deployed predictive model and respond with prediction scores. To assess the practicality of this approach we evaluated the response and prediction time of the FHIR modeling web services. We found the system to be reasonably fast with one second total response time per patient prediction.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Deep Learning, Named Entity Recognition, Clinical]
+tags: [Predictive Modeling, Clinical, FHIR]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8999113'
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765683/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
