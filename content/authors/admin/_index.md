@@ -16,7 +16,7 @@ organizations:
     url: https://www.birzeit.edu/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: something goes here.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -67,6 +67,12 @@ email: ''
 highlight_name: true
 ---
 
-Mohammed is a researcher, computer scientist, programmer and data scientist who earned his PhD in computer science in 2014 from the University of Missouri. He joined Georgia Tech Computational Science and Enginerring school and Emory University as Postdoctoral Fellow to work on predictive modeling in healthcare. His research included predictive modeling, relational cluster analysis, health and nursing informatics.
+Mohammed is a researcher, computer scientist, programmer and data scientist who earned his PhD in computer science from 
+the University of Missouri. He joined Georgia Tech Computational Science and Enginerring school and Emory University as Postdoctoral 
+Fellow to work on predictive modeling in healthcare. His research included predictive modeling, relational cluster analysis, 
+health and nursing informatics. He then worked for Amazon Web Services (AWS) and Amazon Studios for about five years in the areas
+of natural language processing (NLP), speech synthesis and some computer vision. In 2018, he helped launch [Comprehend Medical](https://aws.amazon.com/comprehend/medical/), 
+an Amazon web service for medical NLP.
 
-Currently, he is an Applied Scientist at Amazon working on machine learning applications related to speech and langauage processing. He was one of the core scientists to work on Comprehend Medical, an Amazon Web Service (AWS). Comprehend Medical is a natural language processing (NLP) service that leverages state-of-the-art machine learning techniques for extracting relationships and entities including medical conditions, medications, treatment, test and procedures. At AWS, Mohammed focused on seq2seq modeling for clinical named entity recognition, language expansion, data processing pipeline and active learning
+Currently, he is an Senior Applied Scientist at Qualtrics working on conversational machine learning and active learning. He is also
+an adjunct professor at Birzeit University teaching NLP related courses for doctoral students.
