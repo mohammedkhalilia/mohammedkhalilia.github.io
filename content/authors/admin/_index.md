@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammed Khalilia
+title: Mohammed Khalilia (محمد عبد الستار قاسم)
 
 # Is this the primary user of the site?
 superuser: true
