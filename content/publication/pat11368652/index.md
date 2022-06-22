@@ -1,46 +1,47 @@
 ---
-title: 'Comprehend Medical: A Named Entity Recognition and Relationship Extraction Web Service'
+title: 'Video Frame Replacement Based on Auxiliary Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Parminder Bhatia
-  - Busra Celikkaya
+  - Gregory Johnson
+  - Pragyana Mishra
   - Mohammed Khalilia
-  - Selvan Senthivel
+  - Wenbin Ouyang
+  - Naveen Nair
 
-date: '2019'
-doi: '10.1109/ICMLA.2019.00297'
+date: '2022'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2022-06-21T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
-publication_short: 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+publication: United States Patent
+publication_short: United States Patent
 
-abstract: Comprehend Medical is a stateless and Health Insurance Portability and Accountability Act (HIPAA) eligible Named Entity Recognition (NER) and Relationship Extraction (RE) service launched under Amazon Web Services (AWS) trained using state-of-the-art deep learning models. Contrary to many existing open source tools, Comprehend Medical is scalable and does not require steep learning curve, dependencies, pipeline configurations, or installations. Currently, Comprehend Medical performs NER in five medical categories Anatomy, Medical Condition, Medications, Protected Health Information (PHI) and Treatment, Test and Procedure (TTP). Additionally, the service provides relationship extraction for the detected entities as well as contextual information such as negation and temporality in the form of traits. Comprehend Medical provides two Application Programming Interfaces (API) 1) the NERe API which returns all the extracted named entities, their traits and the relationships between them and 2) the PHId API which returns just the protected health information contained in the text. Furthermore, Comprehend Medical is accessible through AWS Console, Java and Python Software Development Kit (SDK), making it easier for non-developers and developers to use.
+abstract: The popularity of videoconferencing has increased rap idly in recent years. Videoconferencing tools may allow multiple people at multiple different locations to interact by receiving both audio and video of one another. This may allow for more personal and detailed interactions between people participating in the videoconference, such as opposed to a mere telephone conference. For example, instead of merely hearing each other's voices, videoconferencing tools may allow participants to see each other's facial expressions and movements, thereby more closely simulating actual face-to-face interactions between people in the same room or other physical space. While videoconferencing provides many advantages, the transfer of video over bandwidth constrained networks may also involve several challenges. For example, in certain conditions, existing network band width may be insufficient to support all incoming video feeds, thereby resulting in quality degradation, lost frames, interrupted video feeds, and other problems. In some examples, these problems may occur when available band width temporarily drops, when large numbers of participants join the video conference, or for other reasons.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Deep Learning, Named Entity Recognition, Clinical]
+tags: [Computer Vision]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8999113'
+url_pdf: 'http://www.pat2pdf.org/patents/pat11368652.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,8 +62,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-   - compmed
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
