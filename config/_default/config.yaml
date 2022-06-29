@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Mohammed Khalilia # Website name
+title: Mohammed Khalilia (محمد عبد الستار قاسم) # Website name
 baseURL: 'https://mohammedkhalilia.com/' # Website URL
 
 ############################
