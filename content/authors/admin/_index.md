@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Mohammed is a researcher, computer scientist, programmer and data scientist who earned his PhD in computer science from 
+Mohammed Khalilia (محمد [عبد الستار قاسم](https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%B1_%D9%82%D8%A7%D8%B3%D9%85))  is a researcher, computer scientist, programmer and data scientist who earned his PhD in computer science from 
 the University of Missouri. He joined Georgia Tech Computational Science and Enginerring school and Emory University as Postdoctoral 
 Fellow to work on predictive modeling in healthcare. His research included predictive modeling, relational cluster analysis, 
 health and nursing informatics. He then worked for Amazon Web Services (AWS) and Amazon Studios for about five years in the areas
