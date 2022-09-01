@@ -1,21 +1,18 @@
 ---
-title: 'Video Frame Replacement Based on Auxiliary Data'
+title: 'Facial Feature Location-based Audio Frame Replacement'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Gregory Johnson
-  - Pragyana Mishra
   - Mohammed Khalilia
-  - Wenbin Ouyang
-  - Naveen Nair
+  - Pragyana Mishra
 
 date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-06-21T00:00:00Z'
+publishDate: '2022-08-02T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,11 +24,11 @@ publication_types: ['8']
 publication: United States Patent
 publication_short: United States Patent
 
-abstract: The popularity of videoconferencing has increased rap idly in recent years. Video conferencing tools may allow multiple people at multiple different locations to interact by receiving both audio and video of one another. This may allow for more personal and detailed interactions between people participating in the videoconference, such as opposed to a mere telephone conference. For example, instead of merely hearing each other's voices, videoconferencing tools may allow participants to see each other's facial expressions and movements, thereby more closely simulating actual face-to-face interactions between people in the same room or other physical space. While videoconferencing provides many advantages, the transfer of video over bandwidth constrained networks may also involve several challenges. For example, in certain conditions, existing network band width may be insufficient to support all incoming video feeds, thereby resulting in quality degradation, lost frames, interrupted video feeds, and other problems. In some examples, these problems may occur when available band width temporarily drops, when large numbers of participants join the video conference, or for other reasons.
+abstract: Played audio frames included in first audio content may be received over one or more networks. The first audio content may further include a replaced audio frame. The first audio content may correspond to video content that includes video of a face of a person as the person utters speech that is captured in the first audio content. Location data may also be received over the one or more networks. The location data may indicate locations of facial features of the face of the person in a video frame of the video content. The video frame may correspond to the replaced audio frame. Audio output may be generated that approximates a portion of the speech corresponding to the replaced audio frame. The audio output may be inserted into a replacement audio frame. Second audio content may be played including the played audio frames and the replacement audio frame.
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Computer Vision]
+tags: [Computer Vision, Speech]
 
 # Display this page in the Featured widget?
 featured: true
@@ -39,9 +36,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
   - name: Google Patents
-    url: https://patents.google.com/patent/US11368652B1/en
+    url: https://patents.google.com/patent/US11404087B1/en
 
-url_pdf: 'https://patentimages.storage.googleapis.com/87/bc/af/da467bfa74ec22/US11368652.pdf'
+url_pdf: 'https://patentimages.storage.googleapis.com/a1/fb/58/b76392dfea9f7b/US11404087.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
