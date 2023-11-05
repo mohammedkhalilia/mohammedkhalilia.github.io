@@ -49,7 +49,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2310.16153'
-url_code: 'https://github.com/SinaLab/ArabicNER'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -46,11 +46,11 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2205.09651'
-url_code: 'https://github.com/SinaLab/ArabicNER'
+url_pdf: 'https://arxiv.org/abs/2310.19034'
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://sina.birzeit.edu/arbanking77'
 url_slides: ''
 url_source: ''
 url_video: ''
