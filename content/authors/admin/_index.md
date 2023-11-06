@@ -74,5 +74,5 @@ health and nursing informatics. He then worked for Amazon Web Services (AWS) and
 of natural language processing (NLP), speech synthesis and some computer vision. In 2018, he helped launch [Comprehend Medical](https://aws.amazon.com/comprehend/medical/), 
 an Amazon web service for medical NLP.
 
-Currently, he is an Senior Applied Scientist at Qualtrics working on conversational machine learning and active learning. He is also
+Currently, he is a Senior Applied Scientist at Qualtrics working on conversational machine learning and active learning. He is also
 an adjunct professor at Birzeit University teaching NLP related courses for doctoral students.

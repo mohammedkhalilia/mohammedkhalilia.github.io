@@ -1,17 +1,13 @@
 ---
-title: 'WojoodNER 2023: The First Arabic Named Entity Recognition Shared Task'
+title: 'Context-Gloss Augmentation for Improving Arabic Target Sense Verification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Sanad Malaysha
   - Mustafa Jarrar
-  - Muhammad Abdul-Mageed
   - Mohammed Khalilia
-  - Bashar Talafha
-  - AbdelRahim Elmadany
-  - Nagham Hamad
-  - Alaa' Omar
 
 # Author notes (optional)
 author_notes:
@@ -22,7 +18,7 @@ date: '2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-11-01T00:00:00Z'
+publishDate: '2023-02-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,14 +27,14 @@ publishDate: '2023-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of The First Arabic Natural Language Processing Conference (ArabicNLP 2023, co-hosted with EMNLP 2023)
-publication_short: Proceedings of The First Arabic Natural Language Processing Conference (ArabicNLP 2023, co-hosted with EMNLP 2023)
+publication: The 12th International Global Wordnet Conference (GWC2023), Global Wordnet Association. (pp. ). San Sebastian, Spain, 2023
+publication_short: The 12th International Global Wordnet Conference (GWC2023), Global Wordnet Association. (pp. ). San Sebastian, Spain, 2023
 
-abstract: We present WojoodNER-2023, the first Arabic Named Entity Recognition (NER) Shared Task.  The primary focus of WojoodNER 2023 is on Arabic NER, offering novel NER datasets (i.e., Wojood) and the definition of subtasks designed to facilitate meaningful comparisons between different NER approaches. WojoodNER-2023 encompassed two Subtasks FlatNER and NestedNER. A total of 45 unique teams registered for this shared task, with 11 of them actively participating in the test phase. Specifically, 11 teams participated in FlatNER, while 8 teams tackled NestedNER. The winning teams achieved F1 scores of 91.96 and 93.73 in FlatNER and NestedNER, respectively.
+abstract: Arabic language lacks semantic datasets and sense inventories. The most common semantically-labeled dataset for Arabic is the ArabGlossBERT, a relatively small dataset that consists of 167K context-gloss pairs (about 60K positive and 107K negative pairs), collected from Arabic dictionaries. This paper presents an enrichment to the ArabGlossBERT dataset, by augmenting it using (Arabic-English-Arabic) machine back-translation. Augmentation increased the dataset size to 352K pairs (149K positive and 203K negative pairs). We measure the impact of augmentation using different data configurations to fine-tune BERT on target sense verification (TSV) task. Overall, the accuracy ranges between 78% to 84% for different data configurations. Although our approach performed at par with the baseline, we did observe some improvements for some POS tags in some experiments. Furthermore, our fine-tuned models are trained on a larger dataset covering larger vocabulary and contexts. We provide an in-depth analysis of the accuracy for each part-of-speech (POS).
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: [Deep Learning, Arabic NLP, Nested Named Entity Recognition, Shared Task]
+tags: [Deep Learning, Arabic NLP, Target Sense Verification]
 
 # Display this page in the Featured widget?
 featured: false
@@ -48,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2310.16153'
+url_pdf: 'https://arxiv.org/abs/2302.03126'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,8 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - wojood
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
