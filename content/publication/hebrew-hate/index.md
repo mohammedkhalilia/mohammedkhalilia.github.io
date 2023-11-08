@@ -12,8 +12,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Data annotation'
-  - 'Model design, training, annotation, publication'
+  - 'Data annotation, model design, training'
+  - 'Annotation, publication'
+  - 'Supervision, paper revision'
+  - 'Domain expert'
 
 date: '2023'
 doi: ''

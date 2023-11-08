@@ -15,8 +15,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Data annotation'
-  - 'Model design, training, annotation, publication'
+  - 'Organizer, paper revision'
+  - 'Co-organizer, paper revision'
+  - 'Co-organizer, paper reviewer, paper revision'
 
 date: '2023'
 doi: ''
