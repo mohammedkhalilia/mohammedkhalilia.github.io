@@ -126,6 +126,9 @@ jobs:
       id: pages
       uses: actions/configure-pages@v5
 
+    - name: Install Tailwind
+      run: npm install @tailwindcss/cli@4.2.4
+
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
