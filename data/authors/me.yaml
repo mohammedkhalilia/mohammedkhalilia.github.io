@@ -51,19 +51,19 @@ interests:
 
 education:
   - degree: PhD Computer Science
-    institution: University of Missouri-Columbia, USA
+    institution: University of Missouri-Columbia • USA
     start: 2007-01-01
     end: 2014-05-15
     summary: |
       Computer science, machine learning, unsupervised learning, predictive modeling, health informatics, medicine.
   - degree: BS Computer Science
-    institution: University of Missouri-Columbia
+    institution: University of Missouri-Columbia • USA
     start: 2001-08-31
     end: 2006-12-31
 
 experience:
   - role: Lead Data Scientist
-    org: aramco
+    org: Aramco • Saudi Arabia 
     start: 2025-11-08
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
@@ -72,7 +72,7 @@ experience:
       url: /
       icon: hero/arrow-down-tray
   - role: Staff Applied Scientist
-    org: Qualtrics XM
+    org: Qualtrics XM • Seattle, Washington, USA
     start: 2025-04-01
     end: 2025-11-07
     summary: |
@@ -81,7 +81,7 @@ experience:
       - Led and developed Qualtrics anonymization model.
       - Mentored multiple junior scientists.
   - role: Senior Applied Scientist
-    org: Qualtrics XM
+    org: Qualtrics XM • Seattle, Washington, USA 
     start: 2022-01-10
     end: 2025-03-31
     summary: |
@@ -90,7 +90,7 @@ experience:
       - Led and developed Qualtrics anonymization model.
       - Mentored multiple junior scientists.
   - role: Machine Learning Scientist
-    org: Amazon
+    org: Amazon (Grand Challenge, AWS, Studios)• Seattle, Washington, USA 
     start: 2017-07-31
     end: 2022-01-09
     summary: |
@@ -105,7 +105,7 @@ experience:
       - Data processing, active learning and ETL: data pre-processing, tokenization, active learning and database.
       - Mentoring:  mentoring interns, new team members and leading projects.
   - role: Postdoctoral Fellow
-    org: Emory University
+    org: Emory University • Atlanta, Georgia, USA
     start: 2015-09-01
     end: 2017-07-31
     summary: |
@@ -117,7 +117,7 @@ experience:
       - Developing integrative analysis dashboard.
 
   - role: Postdoctoral Fellow
-    org: Georgia Institute of Technology
+    org: Georgia Institute of Technology • Atlanta, Georgia, USA 
     start: 2014-05-14
     end: 2025-08-31
     summary: |
@@ -145,7 +145,7 @@ experience:
       - Union Chimique Belge (UCB), a pharma company headquartered in Brussels, Belgium,
       - Children’s Healthcare of Atlanta.
   - role: Research Analyst
-    org: University of Missouri-Columbia, School of Medicine
+    org: University of Missouri-Columbia, School of Medicine • Atlanta, Georgia, USA 
     start: 2013-02-01
     end: 2014-05-14
     summary: |
