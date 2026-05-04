@@ -1,9 +1,9 @@
 {
-  "name": "mohammed-khalilia-academic-webpage",
+  "name": "hugo-blox-academic-cv-starter",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.14.0",
-  "description": "Mohammed Khalilia academic webpage and CV",
+  "description": "Academic CV starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
     "dev": "hugo server --disableFastRender",
     "build": "hugo --minify && pnpm run pagefind",

@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: Mohammed Khalilia (محمد عبد الستار قاسم) # Website name
-baseURL: 'https://mohammedkhalilia.com/' # Website URL
+title: ''
+# Website URL
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
@@ -29,15 +30,13 @@ cascade:
 ############################
 ## ADVANCED
 ############################
-caches:
-  images:
-    dir: :cacheDir/images
+
 build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
 pagination:
-  pagerSize: 999
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
