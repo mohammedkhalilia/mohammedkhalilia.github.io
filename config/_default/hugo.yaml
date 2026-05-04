@@ -29,7 +29,9 @@ cascade:
 ############################
 ## ADVANCED
 ############################
-
+caches:
+  images:
+    dir: :cacheDir/images
 build:
   writeStats: true
 enableGitInfo: false
