@@ -45,7 +45,6 @@ jobs:
         node-version: ${{ env.NODE_VERSION }}
 
     - name: Setup pnpm
-      if: hashFiles('package.json') != ''
       uses: pnpm/action-setup@v4
 
     - name: Get Hugo Version
@@ -77,13 +76,23 @@ jobs:
         echo "HUGO_VERSION=$VERSION" >> $GITHUB_ENV
         echo "Using Hugo version: $VERSION"
 
+    # Cache dependencies before install so pnpm restores from cache then installs only what's missing
+    - uses: actions/cache@v5
+      with:
+        path: |
+          /tmp/hugo_cache_runner/
+          node_modules/
+          modules/*/node_modules/
+        key: ${{ runner.os }}-hugo-deps-${{ hashFiles('**/go.mod', '**/package-lock.json',
+          '**/pnpm-lock.yaml') }}
+        restore-keys: |
+          ${{ runner.os }}-hugo-deps-
+
     - name: Install dependencies
+      if: hashFiles('package.json') != ''
       run: |
-        # Install Tailwind CLI if package.json exists
-        if [ -f "package.json" ]; then
-          echo "Installing Tailwind dependencies..."
-          pnpm install --no-frozen-lockfile || npm install
-        fi
+        echo "Installing dependencies..."
+        pnpm install --frozen-lockfile
 
     - name: Verify Tailwind CSS dependency
       if: hashFiles('package.json') != ''
@@ -100,18 +109,6 @@ jobs:
       with:
         hugo-version: ${{ env.HUGO_VERSION }}
         extended: true
-
-    # Cache dependencies (Go modules, node_modules) - stable, rarely changes
-    - uses: actions/cache@v5
-      with:
-        path: |
-          /tmp/hugo_cache_runner/
-          node_modules/
-          modules/*/node_modules/
-        key: ${{ runner.os }}-hugo-deps-${{ hashFiles('**/go.mod', '**/package-lock.json',
-          '**/pnpm-lock.yaml') }}
-        restore-keys: |
-          ${{ runner.os }}-hugo-deps-
 
     # Cache Hugo resources (processed images, CSS) - invalidates only when assets/config change
     - uses: actions/cache@v5
