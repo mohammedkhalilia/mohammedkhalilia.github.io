@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Mohammed Khalilia (محمد عبد الستار قاسم)</title>
-    <link>http://localhost:1313/projects/</link>
-      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mohammedkhalilia.com/projects/</link>
+      <atom:link href="https://mohammedkhalilia.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e7e672982174d01f.png</url>
+      <url>https://mohammedkhalilia.com/media/icon_hu_e7e672982174d01f.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://mohammedkhalilia.com/projects/</link>
     </image>
     
     <item>
       <title>Wojood - Arabic NER</title>
-      <link>http://localhost:1313/projects/wojood/</link>
+      <link>https://mohammedkhalilia.com/projects/wojood/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/wojood/</guid>
+      <guid>https://mohammedkhalilia.com/projects/wojood/</guid>
       <description>&lt;p&gt;Wojood consists of about 550K tokens (MSA and dialect) that are manually annotated with 21 entity types (e.g., person, organization,
 location, event, date, etc). It covers multiple domains and was annotated with nested entities. The corpus contains about 75K entities
 and 22.5% of which are nested. A nested named entity recognition (NER) model based on BERT was trained (F1-score 88.4%).&lt;/p&gt;
@@ -25,9 +25,9 @@ and 22.5% of which are nested. A nested named entity recognition (NER) model bas
     
     <item>
       <title>Comprehend Medical</title>
-      <link>http://localhost:1313/projects/compmed/</link>
+      <link>https://mohammedkhalilia.com/projects/compmed/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/compmed/</guid>
+      <guid>https://mohammedkhalilia.com/projects/compmed/</guid>
       <description>&lt;p&gt;Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning that
 has been pre-trained to understand and extract health data from medical text, such as prescriptions, procedures, or diagnoses.&lt;/p&gt;
 </description>

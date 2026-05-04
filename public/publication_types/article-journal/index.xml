@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Mohammed Khalilia (محمد عبد الستار قاسم)</title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mohammedkhalilia.com/publication_types/article-journal/</link>
+      <atom:link href="https://mohammedkhalilia.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e7e672982174d01f.png</url>
+      <url>https://mohammedkhalilia.com/media/icon_hu_e7e672982174d01f.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <link>https://mohammedkhalilia.com/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>The Digital Slide Archive: A Software Platform for Management, Integration, and Analysis of Histology for Cancer Research</title>
-      <link>http://localhost:1313/publications/dsa/</link>
+      <link>https://mohammedkhalilia.com/publications/dsa/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/dsa/</guid>
+      <guid>https://mohammedkhalilia.com/publications/dsa/</guid>
       <description>
 
 
@@ -120,9 +120,9 @@
     
     <item>
       <title>Comparing Aging in Place to Home Health Care: Impact of Nurse Care Coordination On Utilization and Costs</title>
-      <link>http://localhost:1313/publications/aip-vs-hhc/</link>
+      <link>https://mohammedkhalilia.com/publications/aip-vs-hhc/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/aip-vs-hhc/</guid>
+      <guid>https://mohammedkhalilia.com/publications/aip-vs-hhc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -229,9 +229,9 @@
     
     <item>
       <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
-      <link>http://localhost:1313/publications/care-coordination/</link>
+      <link>https://mohammedkhalilia.com/publications/care-coordination/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/care-coordination/</guid>
+      <guid>https://mohammedkhalilia.com/publications/care-coordination/</guid>
       <description>
 
 
@@ -335,9 +335,9 @@
     
     <item>
       <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>http://localhost:1313/publications/frsom/</link>
+      <link>https://mohammedkhalilia.com/publications/frsom/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/frsom/</guid>
+      <guid>https://mohammedkhalilia.com/publications/frsom/</guid>
       <description>
 
 

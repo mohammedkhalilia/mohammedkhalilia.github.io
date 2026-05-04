@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammed Khalilia (محمد عبد الستار قاسم)</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mohammedkhalilia.com/</link>
+      <atom:link href="https://mohammedkhalilia.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammed Khalilia (محمد عبد الستار قاسم)</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e7e672982174d01f.png</url>
+      <url>https://mohammedkhalilia.com/media/icon_hu_e7e672982174d01f.png</url>
       <title>Mohammed Khalilia (محمد عبد الستار قاسم)</title>
-      <link>http://localhost:1313/</link>
+      <link>https://mohammedkhalilia.com/</link>
     </image>
     
     <item>
       <title>Event-Arguments Extraction Corpus and Modeling using BERT for Arabic</title>
-      <link>http://localhost:1313/publications/event-arguments/</link>
+      <link>https://mohammedkhalilia.com/publications/event-arguments/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/event-arguments/</guid>
+      <guid>https://mohammedkhalilia.com/publications/event-arguments/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -123,9 +123,9 @@
     
     <item>
       <title>NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and Encoder-based Scoring for Semantic Textual Relatedness</title>
-      <link>http://localhost:1313/publications/nlu-str-2024/</link>
+      <link>https://mohammedkhalilia.com/publications/nlu-str-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/nlu-str-2024/</guid>
+      <guid>https://mohammedkhalilia.com/publications/nlu-str-2024/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -232,9 +232,9 @@
     
     <item>
       <title>SinaTools: Open Source Toolkit for Arabic Natural Language Processing</title>
-      <link>http://localhost:1313/publications/sinatools/</link>
+      <link>https://mohammedkhalilia.com/publications/sinatools/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/sinatools/</guid>
+      <guid>https://mohammedkhalilia.com/publications/sinatools/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -341,9 +341,9 @@
     
     <item>
       <title>Multi-Channel Volume Level Equalization Based on User Preferences</title>
-      <link>http://localhost:1313/publications/pat11848655/</link>
+      <link>https://mohammedkhalilia.com/publications/pat11848655/</link>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/pat11848655/</guid>
+      <guid>https://mohammedkhalilia.com/publications/pat11848655/</guid>
       <description>
 
 
@@ -447,9 +447,9 @@
     
     <item>
       <title>Arabic Fine-Grained Entity Recognition</title>
-      <link>http://localhost:1313/publications/wojood-fine/</link>
+      <link>https://mohammedkhalilia.com/publications/wojood-fine/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/wojood-fine/</guid>
+      <guid>https://mohammedkhalilia.com/publications/wojood-fine/</guid>
       <description>
 
 
@@ -553,9 +553,9 @@
     
     <item>
       <title>ArBanking77: Intent Detection Neural Model and a New Dataset in Modern and Dialectical Arabic</title>
-      <link>http://localhost:1313/publications/arbanking77/</link>
+      <link>https://mohammedkhalilia.com/publications/arbanking77/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/arbanking77/</guid>
+      <guid>https://mohammedkhalilia.com/publications/arbanking77/</guid>
       <description>
 
 
@@ -659,9 +659,9 @@
     
     <item>
       <title>SALMA: Arabic Sense-Annotated Corpus and WSD Benchmarks</title>
-      <link>http://localhost:1313/publications/salma/</link>
+      <link>https://mohammedkhalilia.com/publications/salma/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/salma/</guid>
+      <guid>https://mohammedkhalilia.com/publications/salma/</guid>
       <description>
 
 
@@ -765,9 +765,9 @@
     
     <item>
       <title>WojoodNER 2023: The First Arabic Named Entity Recognition Shared Task</title>
-      <link>http://localhost:1313/publications/wojood-ner-2023/</link>
+      <link>https://mohammedkhalilia.com/publications/wojood-ner-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/wojood-ner-2023/</guid>
+      <guid>https://mohammedkhalilia.com/publications/wojood-ner-2023/</guid>
       <description>
 
 
@@ -871,17 +871,17 @@
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://mohammedkhalilia.com/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://mohammedkhalilia.com/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Offensive Hebrew Corpus and Detection using BERT</title>
-      <link>http://localhost:1313/publications/hebrew-hate/</link>
+      <link>https://mohammedkhalilia.com/publications/hebrew-hate/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/hebrew-hate/</guid>
+      <guid>https://mohammedkhalilia.com/publications/hebrew-hate/</guid>
       <description>
 
 
@@ -985,9 +985,9 @@
     
     <item>
       <title>Context-Gloss Augmentation for Improving Arabic Target Sense Verification</title>
-      <link>http://localhost:1313/publications/context-gloss-aug/</link>
+      <link>https://mohammedkhalilia.com/publications/context-gloss-aug/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/context-gloss-aug/</guid>
+      <guid>https://mohammedkhalilia.com/publications/context-gloss-aug/</guid>
       <description>
 
 
@@ -1091,9 +1091,9 @@
     
     <item>
       <title>Service architecture for entity and relationship detection in unstructured text</title>
-      <link>http://localhost:1313/publications/pat11487942/</link>
+      <link>https://mohammedkhalilia.com/publications/pat11487942/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/pat11487942/</guid>
+      <guid>https://mohammedkhalilia.com/publications/pat11487942/</guid>
       <description>
 
 
@@ -1197,9 +1197,9 @@
     
     <item>
       <title>Facial Feature Location-based Audio Frame Replacement</title>
-      <link>http://localhost:1313/publications/pat11404087/</link>
+      <link>https://mohammedkhalilia.com/publications/pat11404087/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/pat11404087/</guid>
+      <guid>https://mohammedkhalilia.com/publications/pat11404087/</guid>
       <description>
 
 
@@ -1303,9 +1303,9 @@
     
     <item>
       <title>Video Frame Replacement Based on Auxiliary Data</title>
-      <link>http://localhost:1313/publications/pat11368652/</link>
+      <link>https://mohammedkhalilia.com/publications/pat11368652/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/pat11368652/</guid>
+      <guid>https://mohammedkhalilia.com/publications/pat11368652/</guid>
       <description>
 
 
@@ -1409,9 +1409,9 @@
     
     <item>
       <title>Wojood - Arabic NER</title>
-      <link>http://localhost:1313/projects/wojood/</link>
+      <link>https://mohammedkhalilia.com/projects/wojood/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/wojood/</guid>
+      <guid>https://mohammedkhalilia.com/projects/wojood/</guid>
       <description>&lt;p&gt;Wojood consists of about 550K tokens (MSA and dialect) that are manually annotated with 21 entity types (e.g., person, organization,
 location, event, date, etc). It covers multiple domains and was annotated with nested entities. The corpus contains about 75K entities
 and 22.5% of which are nested. A nested named entity recognition (NER) model based on BERT was trained (F1-score 88.4%).&lt;/p&gt;
@@ -1420,9 +1420,9 @@ and 22.5% of which are nested. A nested named entity recognition (NER) model bas
     
     <item>
       <title>Wojood: Nested Arabic Named Entity Corpus and Recognition using BERT</title>
-      <link>http://localhost:1313/publications/wojood/</link>
+      <link>https://mohammedkhalilia.com/publications/wojood/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/wojood/</guid>
+      <guid>https://mohammedkhalilia.com/publications/wojood/</guid>
       <description>
 
 
@@ -1526,9 +1526,9 @@ and 22.5% of which are nested. A nested named entity recognition (NER) model bas
     
     <item>
       <title>Comprehend Medical: A Named Entity Recognition and Relationship Extraction Web Service</title>
-      <link>http://localhost:1313/publications/compmed/</link>
+      <link>https://mohammedkhalilia.com/publications/compmed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/compmed/</guid>
+      <guid>https://mohammedkhalilia.com/publications/compmed/</guid>
       <description>
 
 
@@ -1632,9 +1632,9 @@ and 22.5% of which are nested. A nested named entity recognition (NER) model bas
     
     <item>
       <title>Joint Entity Extraction and Assertion Detection for Clinical Text</title>
-      <link>http://localhost:1313/publications/joint-entity-assertion-detection/</link>
+      <link>https://mohammedkhalilia.com/publications/joint-entity-assertion-detection/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/joint-entity-assertion-detection/</guid>
+      <guid>https://mohammedkhalilia.com/publications/joint-entity-assertion-detection/</guid>
       <description>
 
 
@@ -1738,9 +1738,9 @@ and 22.5% of which are nested. A nested named entity recognition (NER) model bas
     
     <item>
       <title>Comprehend Medical</title>
-      <link>http://localhost:1313/projects/compmed/</link>
+      <link>https://mohammedkhalilia.com/projects/compmed/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/compmed/</guid>
+      <guid>https://mohammedkhalilia.com/projects/compmed/</guid>
       <description>&lt;p&gt;Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning that
 has been pre-trained to understand and extract health data from medical text, such as prescriptions, procedures, or diagnoses.&lt;/p&gt;
 </description>
@@ -1748,9 +1748,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</title>
-      <link>http://localhost:1313/publications/predictive-model-mortality/</link>
+      <link>https://mohammedkhalilia.com/publications/predictive-model-mortality/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/predictive-model-mortality/</guid>
+      <guid>https://mohammedkhalilia.com/publications/predictive-model-mortality/</guid>
       <description>
 
 
@@ -1854,9 +1854,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>The Digital Slide Archive: A Software Platform for Management, Integration, and Analysis of Histology for Cancer Research</title>
-      <link>http://localhost:1313/publications/dsa/</link>
+      <link>https://mohammedkhalilia.com/publications/dsa/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/dsa/</guid>
+      <guid>https://mohammedkhalilia.com/publications/dsa/</guid>
       <description>
 
 
@@ -1960,9 +1960,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Identifying Patients at Risk of High Healthcare Utilization</title>
-      <link>http://localhost:1313/publications/risk-stratification/</link>
+      <link>https://mohammedkhalilia.com/publications/risk-stratification/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/risk-stratification/</guid>
+      <guid>https://mohammedkhalilia.com/publications/risk-stratification/</guid>
       <description>
 
 
@@ -2066,9 +2066,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Clinical predictive modeling development and deployment through FHIR web services</title>
-      <link>http://localhost:1313/publications/predictive-model-fhir/</link>
+      <link>https://mohammedkhalilia.com/publications/predictive-model-fhir/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/predictive-model-fhir/</guid>
+      <guid>https://mohammedkhalilia.com/publications/predictive-model-fhir/</guid>
       <description>
 
 
@@ -2172,9 +2172,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Cloud-based Predictive Modeling System and its Application to Asthma Readmission Prediction</title>
-      <link>http://localhost:1313/publications/predictive-model-cloud/</link>
+      <link>https://mohammedkhalilia.com/publications/predictive-model-cloud/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/predictive-model-cloud/</guid>
+      <guid>https://mohammedkhalilia.com/publications/predictive-model-cloud/</guid>
       <description>
 
 
@@ -2278,9 +2278,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Comparing Aging in Place to Home Health Care: Impact of Nurse Care Coordination On Utilization and Costs</title>
-      <link>http://localhost:1313/publications/aip-vs-hhc/</link>
+      <link>https://mohammedkhalilia.com/publications/aip-vs-hhc/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/aip-vs-hhc/</guid>
+      <guid>https://mohammedkhalilia.com/publications/aip-vs-hhc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -2387,9 +2387,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Improvements to the relational fuzzy c-means clustering algorithm</title>
-      <link>http://localhost:1313/publications/improving-rfcm/</link>
+      <link>https://mohammedkhalilia.com/publications/improving-rfcm/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/improving-rfcm/</guid>
+      <guid>https://mohammedkhalilia.com/publications/improving-rfcm/</guid>
       <description>
 
 
@@ -2493,9 +2493,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Quantifying care coordination using natural language processing and domain-specific ontology</title>
-      <link>http://localhost:1313/publications/care-coordination/</link>
+      <link>https://mohammedkhalilia.com/publications/care-coordination/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/care-coordination/</guid>
+      <guid>https://mohammedkhalilia.com/publications/care-coordination/</guid>
       <description>
 
 
@@ -2599,9 +2599,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Relational Fuzzy Self-Organizing Maps for Cluster Visualization and Summarization</title>
-      <link>http://localhost:1313/publications/frsom/</link>
+      <link>https://mohammedkhalilia.com/publications/frsom/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/frsom/</guid>
+      <guid>https://mohammedkhalilia.com/publications/frsom/</guid>
       <description>
 
 
@@ -2705,9 +2705,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Topology Preservation in Fuzzy Self-Organizing Maps</title>
-      <link>http://localhost:1313/publications/som-topology/</link>
+      <link>https://mohammedkhalilia.com/publications/som-topology/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/som-topology/</guid>
+      <guid>https://mohammedkhalilia.com/publications/som-topology/</guid>
       <description>
 
 
@@ -2811,9 +2811,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Fuzzy relational self-organizing maps</title>
-      <link>http://localhost:1313/publications/first-frsom/</link>
+      <link>https://mohammedkhalilia.com/publications/first-frsom/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/first-frsom/</guid>
+      <guid>https://mohammedkhalilia.com/publications/first-frsom/</guid>
       <description>
 
 
@@ -2917,9 +2917,9 @@ has been pre-trained to understand and extract health data from medical text, su
     
     <item>
       <title>Improving disease prediction using ICD-9 ontological features</title>
-      <link>http://localhost:1313/publications/disease-prediction-ontology/</link>
+      <link>https://mohammedkhalilia.com/publications/disease-prediction-ontology/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/disease-prediction-ontology/</guid>
+      <guid>https://mohammedkhalilia.com/publications/disease-prediction-ontology/</guid>
       <description>
 
 

@@ -4,7 +4,7 @@
       data-wc-theme-default="system"
       data-hbb-relurl="/">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -60,7 +60,7 @@
   <meta name="description" content="Mohammed Khalilia / Mohammed Abdul-Sattar Kassem / محمد عبد الستار قاسم / محمد خليلية applied scientist, researcher and professor in machine learning and natural language processing" />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publications/" />
+  <link rel="alternate" hreflang="en-us" href="https://mohammedkhalilia.com/publications/" />
 
   
   
@@ -478,7 +478,9 @@
   
   
     
-      <link rel="stylesheet" href="/css/_entry.css">
+      
+        <link rel="stylesheet" href="/css/_entry.2386abb244be16124290e7b81595cae4c7da8c96060917118e54443d5fcbf989.css" integrity="sha256-I4arskS&#43;FhJCkOe4FZXK5MfajJYGCRcRjlREPV/L&#43;Yk=" crossorigin="anonymous">
+      
     
   
 
@@ -487,7 +489,7 @@
 
   
 
-  <script src="/js/hb-head.min.js"></script>
+  <script src="/js/hb-head.min.e9ff67ddf77122b225756bf5a926e24420bea2586199fddcb3b1813a009f4ee5.js" integrity="sha256-6f9n3fdxIrIldWv1qSbiRCC&#43;olhhmf3cs7GBOgCfTuU=" crossorigin="anonymous"></script>
 
   
   
@@ -501,6 +503,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPZM7038Q1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-ZPZM7038Q1', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -547,7 +588,7 @@
     
   
 
-  <link rel="canonical" href="http://localhost:1313/publications/" />
+  <link rel="canonical" href="https://mohammedkhalilia.com/publications/" />
 
   
   
@@ -573,10 +614,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Mohammed Khalilia" />
-  <meta property="og:url" content="http://localhost:1313/publications/" />
+  <meta property="og:url" content="https://mohammedkhalilia.com/publications/" />
   <meta property="og:title" content="Publications | Mohammed Khalilia" />
-  <meta property="og:description" content="Mohammed Khalilia / Mohammed Abdul-Sattar Kassem / محمد عبد الستار قاسم / محمد خليلية applied scientist, researcher and professor in machine learning and natural language processing" /><meta property="og:image" content="http://localhost:1313/media/icon_hu_e7e672982174d01f.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_e7e672982174d01f.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Mohammed Khalilia / Mohammed Abdul-Sattar Kassem / محمد عبد الستار قاسم / محمد خليلية applied scientist, researcher and professor in machine learning and natural language processing" /><meta property="og:image" content="https://mohammedkhalilia.com/media/icon_hu_e7e672982174d01f.png" />
+    <meta property="twitter:image" content="https://mohammedkhalilia.com/media/icon_hu_e7e672982174d01f.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2024-01-01T00:00:00&#43;00:00" />
@@ -588,16 +629,16 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@id": "http://localhost:1313/publications/",
+  "@id": "https://mohammedkhalilia.com/publications/",
   "@type": "CollectionPage",
   "dateModified": "2024-01-01T00:00:00Z",
   "description": "Mohammed Khalilia / Mohammed Abdul-Sattar Kassem / محمد عبد الستار قاسم / محمد خليلية applied scientist, researcher and professor in machine learning and natural language processing",
   "inLanguage": "en-us",
   "isPartOf": {
-    "@id": "http://localhost:1313/",
+    "@id": "https://mohammedkhalilia.com/",
     "@type": "WebSite",
     "name": "Mohammed Khalilia (محمد عبد الستار قاسم)",
-    "url": "http://localhost:1313/"
+    "url": "https://mohammedkhalilia.com/"
   },
   "mainEntity": {
     "@type": "ItemList",
@@ -605,100 +646,100 @@
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/sinatools/",
+          "@id": "https://mohammedkhalilia.com/publications/sinatools/",
           "@type": "WebPage",
           "name": "SinaTools: Open Source Toolkit for Arabic Natural Language Processing",
-          "url": "http://localhost:1313/publications/sinatools/"
+          "url": "https://mohammedkhalilia.com/publications/sinatools/"
         },
         "position": 1
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/nlu-str-2024/",
+          "@id": "https://mohammedkhalilia.com/publications/nlu-str-2024/",
           "@type": "WebPage",
           "name": "NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and Encoder-based Scoring for Semantic Textual Relatedness",
-          "url": "http://localhost:1313/publications/nlu-str-2024/"
+          "url": "https://mohammedkhalilia.com/publications/nlu-str-2024/"
         },
         "position": 2
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/event-arguments/",
+          "@id": "https://mohammedkhalilia.com/publications/event-arguments/",
           "@type": "WebPage",
           "name": "Event-Arguments Extraction Corpus and Modeling using BERT for Arabic",
-          "url": "http://localhost:1313/publications/event-arguments/"
+          "url": "https://mohammedkhalilia.com/publications/event-arguments/"
         },
         "position": 3
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/pat11848655/",
+          "@id": "https://mohammedkhalilia.com/publications/pat11848655/",
           "@type": "WebPage",
           "name": "Multi-Channel Volume Level Equalization Based on User Preferences",
-          "url": "http://localhost:1313/publications/pat11848655/"
+          "url": "https://mohammedkhalilia.com/publications/pat11848655/"
         },
         "position": 4
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/wojood-ner-2023/",
+          "@id": "https://mohammedkhalilia.com/publications/wojood-ner-2023/",
           "@type": "WebPage",
           "name": "WojoodNER 2023: The First Arabic Named Entity Recognition Shared Task",
-          "url": "http://localhost:1313/publications/wojood-ner-2023/"
+          "url": "https://mohammedkhalilia.com/publications/wojood-ner-2023/"
         },
         "position": 5
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/salma/",
+          "@id": "https://mohammedkhalilia.com/publications/salma/",
           "@type": "WebPage",
           "name": "SALMA: Arabic Sense-Annotated Corpus and WSD Benchmarks",
-          "url": "http://localhost:1313/publications/salma/"
+          "url": "https://mohammedkhalilia.com/publications/salma/"
         },
         "position": 6
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/arbanking77/",
+          "@id": "https://mohammedkhalilia.com/publications/arbanking77/",
           "@type": "WebPage",
           "name": "ArBanking77: Intent Detection Neural Model and a New Dataset in Modern and Dialectical Arabic",
-          "url": "http://localhost:1313/publications/arbanking77/"
+          "url": "https://mohammedkhalilia.com/publications/arbanking77/"
         },
         "position": 7
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/wojood-fine/",
+          "@id": "https://mohammedkhalilia.com/publications/wojood-fine/",
           "@type": "WebPage",
           "name": "Arabic Fine-Grained Entity Recognition",
-          "url": "http://localhost:1313/publications/wojood-fine/"
+          "url": "https://mohammedkhalilia.com/publications/wojood-fine/"
         },
         "position": 8
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/hebrew-hate/",
+          "@id": "https://mohammedkhalilia.com/publications/hebrew-hate/",
           "@type": "WebPage",
           "name": "Offensive Hebrew Corpus and Detection using BERT",
-          "url": "http://localhost:1313/publications/hebrew-hate/"
+          "url": "https://mohammedkhalilia.com/publications/hebrew-hate/"
         },
         "position": 9
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "http://localhost:1313/publications/context-gloss-aug/",
+          "@id": "https://mohammedkhalilia.com/publications/context-gloss-aug/",
           "@type": "WebPage",
           "name": "Context-Gloss Augmentation for Improving Arabic Target Sense Verification",
-          "url": "http://localhost:1313/publications/context-gloss-aug/"
+          "url": "https://mohammedkhalilia.com/publications/context-gloss-aug/"
         },
         "position": 10
       }
@@ -707,7 +748,7 @@
     "numberOfItems": 10
   },
   "name": "Publications",
-  "url": "http://localhost:1313/publications/"
+  "url": "https://mohammedkhalilia.com/publications/"
 }
 </script>
 
@@ -721,7 +762,7 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://localhost:1313/",
+        "@id": "https://mohammedkhalilia.com/",
         "name": "Mohammed Khalilia (محمد عبد الستار قاسم)"
       },
       "name": "Mohammed Khalilia (محمد عبد الستار قاسم)",
@@ -730,7 +771,7 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "http://localhost:1313/publications/",
+        "@id": "https://mohammedkhalilia.com/publications/",
         "name": "Publications"
       },
       "name": "Publications",
@@ -1413,8 +1454,8 @@
 
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.50bf5376bbbd2aea9b2e03e195eeee2f0afad8e84589a94b0ee493111b4be271.js"
+    integrity="sha256-UL9Tdru9KuqbLgPhle7uLwr62OhFialLDuSTERtL4nE="
   ></script>
 
   
@@ -1440,7 +1481,7 @@
 
 
 
-<script defer src="/js/hb-search.min.js"></script>
+<script defer src="/js/hb-search.min.135366008264b9d452ff89aad28374bc7e4b40d2c047098318511786419873b0.js" integrity="sha256-E1NmAIJkudRS/4mq0oN0vH5LQNLARwmDGFEXhkGYc7A="></script>
 
 
 
