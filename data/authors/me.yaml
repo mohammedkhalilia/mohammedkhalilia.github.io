@@ -2,85 +2,160 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Mohammed Khalilia
+  given: Mohammed
+  family: Khalilia
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: ""
 postnominals:
   - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: Lead Data Scientist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Mohammed Khalilia (محمد [عبد الستار قاسم](https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%B1_%D9%82%D8%A7%D8%B3%D9%85)) is a researcher, computer scientist, and data scientist with a PhD in Computer Science
+  from the University of Missouri. Following his doctorate, he joined Georgia Tech's Computational Science and Engineering school and Emory University as a Postdoctoral Fellow, where his research spanned predictive modeling,
+  relational cluster analysis, and health and nursing informatics.
+
+  He then spent nearly five years at Amazon, working across Amazon Web Services (AWS) and Amazon Studios in natural language processing (NLP), speech synthesis, and computer vision. In 2018, he was part of the team that launched
+  [Comprehend Medical](https://aws.amazon.com/comprehend/medical/), Amazon's NLP service for clinical and biomedical text. At Qualtrics, he developed the company's first fine-tuned large language model, trained [synthetic sampling](https://www.qualtrics.com/support/survey-platform/distributions-module/synthetic-panels/) model,
+  and worked on conversational machine learning, and active learning.
+
+  He is also an adjunct professor at Birzeit University, where he teaches NLP courses for doctoral students.
+
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Aramco
+    url: https://www.aramco.com/en
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:first.last@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/mohammedkhalilia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/mohammedkhalilia/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=z8dFyzAAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-6086-6795
 
 interests:
+  - Machine learning
+  - Natural Language Processing
+  - Biomedical/health informatics
+  - Predictive modeling
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+    institution: University of Missouri-Columbia
+    start: 2007-01-01
+    end: 2014-05-15
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
+      Computer science, machine learning, unsupervised learning, predictive modeling, health informatics, medicine.
   - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    institution: University of Missouri-Columbia
+    start: 2001-08-31
+    end: 2006-12-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Lead Data Scientist
+    org: aramco
+    start: 2025-11-08
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Staff Applied Scientist
+    org: Qualtrics XM
+    start: 2025-04-01
+    end: 2025-11-07
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Developed and led Synthetic Panels powered by custom LLMs to generate synthetic responses to surveys.
+      - Led and supervised Qualtrics LLM fine-tuning across multiple projects including Insight Explorer and EX comment summary.
+      - Led and developed Qualtrics anonymization model.
+      - Mentored multiple junior scientists.
+  - role: Senior Applied Scientist
+    org: Qualtrics XM
+    start: 2022-01-10
+    end: 2025-03-31
+    summary: |
+      - Developed and led Synthetic Panels powered by custom LLMs to generate synthetic responses to surveys.
+      - Led and supervised Qualtrics LLM fine-tuning across multiple projects including Insight Explorer and EX comment summary.
+      - Led and developed Qualtrics anonymization model.
+      - Mentored multiple junior scientists.
+  - role: Machine Learning Scientist
+    org: Amazon
+    start: 2017-07-31
+    end: 2022-01-09
+    summary: |
+      - Audio data preprocessing using short-time Fourier transform (STFT).
+      - Seq2Seq modeling for applications at the interaction of speech and computer vision.
+      - Generating speaker embeddings.
+      - Voice synthesis (vocoder)
+      - Generative models including GANs and VAEs.
+      - Named entity recognition:  seq2seq modeling to built NER models based on BERT and LSTM architectures.
+      - Temporality extraction:  this is an extension to NER which allows the ex-traction of temporal events.
+      - Language expansion:  extending NER English model to other languages.
+      - Data processing, active learning and ETL: data pre-processing, tokenization, active learning and database.
+      - Mentoring:  mentoring interns, new team members and leading projects.
+  - role: Postdoctoral Fellow
+    org: Emory University
+    start: 2015-09-01
+    end: 2017-07-31
+    summary: |
+      The goal of the ”Advanced Development of an Open-source Platform for Web-based Integrative Digital Image Analysis in Cancer” is to develop open-source integrative technologies to facilitate analysis of data provided by the National Cancer Institute’s The Cancer Genome Atlas (TCGA). Some of my responsibilities include:
+
+      - Developing annotation capabilities that allow users to markup image data,
+      - Assisting in transforming the current Cancer Digital Slide Archive to an open-source software,
+      - Providing computational image analysis capabilities,
+      - Developing integrative analysis dashboard.
+
+  - role: Postdoctoral Fellow
+    org: Georgia Institute of Technology
+    start: 2014-05-14
+    end: 2025-08-31
+    summary: |
+      - Computational health,
+      - Patient similarity, similarity learning, graph based similarity and treatment recommendation,
+      - Predictive modeling,
+      - Machine learning including clustering, classification and prediction.
+
+      Besides research, I am very hands-on, I:
+      - Configured cloud computing clusters on Amazon Web Services (AWS),
+      - Installed packages on AWS clusters including Apache Spark and databases,
+      - Developed web services running on an AWS instance,
+      - Designed web services based on Health Level 7 Fast Health Interoperability Resources,
+      - Managed servers and data access.
+
+      Additional responsibilities included:
+      - Working with graduate and undergraduate students on various projects and applications,
+      - Mentoring graduate and undergraduate students,
+      - Assigning tasks to the students,
+      - Publishing scientific papers,
+      - Teaching.
+
+      This work was done in collaboration with governmental agencies and companies including:
+      - Center of Disease Control (CDC),
+      - Union Chimique Belge (UCB), a pharma company headquartered in Brussels, Belgium,
+      - Children’s Healthcare of Atlanta.
+  - role: Research Analyst
+    org: University of Missouri-Columbia, School of Medicine
+    start: 2013-02-01
+    end: 2014-05-14
+    summary: |
+      Leveraging Information Technology for Hi-Tech and Hi-Touch Care (http://light2.missouri.edu/) is a $13.3 million grant, federal government funded aimed at improving the health and lowering the cost of a population of 10,000 patients. As an analyst, my responsibilities included:
+
+        - Performing patient risk stratification using rules based and cluster analysis,
+        - Designing and implementing a web based portal for tracking how patients attribution to physicians,
+        - Collaborating with Cerner to design a datamart to support meaningful use and data analytics,
+        - Performing Extract, Transform, Load (ETL) processes from EHR to the datamart,
+        - Developing scripts that implements some of the business logic (deployed later by Cerner).
 
 skills:
   - name: Technical Skills
@@ -103,10 +178,10 @@ skills:
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Arabic
+    level: 5
+    label: Native
 
 awards:
   - title: Best Paper Award

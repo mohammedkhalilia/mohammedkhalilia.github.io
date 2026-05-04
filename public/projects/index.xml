@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | </title>
+    <title>Projects | Mohammed Khalilia (محمد عبد الستار قاسم)</title>
     <link>http://localhost:1313/projects/</link>
       <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_e7e672982174d01f.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Wojood - Arabic NER</title>
+      <link>http://localhost:1313/projects/wojood/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/wojood/</guid>
+      <description>&lt;p&gt;Wojood consists of about 550K tokens (MSA and dialect) that are manually annotated with 21 entity types (e.g., person, organization,
+location, event, date, etc). It covers multiple domains and was annotated with nested entities. The corpus contains about 75K entities
+and 22.5% of which are nested. A nested named entity recognition (NER) model based on BERT was trained (F1-score 88.4%).&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Comprehend Medical</title>
+      <link>http://localhost:1313/projects/compmed/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/compmed/</guid>
+      <description>&lt;p&gt;Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning that
+has been pre-trained to understand and extract health data from medical text, such as prescriptions, procedures, or diagnoses.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
