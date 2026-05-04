@@ -1,20 +1,188 @@
-@inproceedings{hamad-etal-2025-konooz,
-    title = "Konooz: Multi-domain Multi-dialect Corpus for Named Entity Recognition",
-    author = "Hamad, Nagham  and
+@inproceedings{aljabari-etal-2025-wojoodontology,
+    title = "{W}ojood{O}ntology: Ontology-Driven {LLM} Prompting for Unified Information Extraction Tasks",
+    author = "Aljabari, Alaa  and
+      Hamad, Nagham  and
       Khalilia, Mohammed  and
       Jarrar, Mustafa",
-    editor = "Che, Wanxiang  and
-      Nabende, Joyce  and
-      Shutova, Ekaterina  and
-      Pilehvar, Mohammad Taher",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
-    month = jul,
+    editor = "Darwish, Kareem  and
+      Ali, Ahmed  and
+      Abu Farha, Ibrahim  and
+      Touileb, Samia  and
+      Zitouni, Imed  and
+      Abdelali, Ahmed  and
+      Al-Ghamdi, Sharefah  and
+      Alkhereyf, Sakhar  and
+      Zaghouani, Wajdi  and
+      Khalifa, Salam  and
+      AlKhamissi, Badr  and
+      Almatham, Rawan  and
+      Hamed, Injy  and
+      Alyafeai, Zaid  and
+      Alowisheq, Areeb  and
+      Inoue, Go  and
+      Mrini, Khalil  and
+      Alshammari, Waad",
+    booktitle = "Proceedings of The Third Arabic Natural Language Processing Conference",
+    month = nov,
     year = "2025",
-    address = "Vienna, Austria",
+    address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.findings-acl.382/",
-    doi = "10.18653/v1/2025.findings-acl.382",
-    pages = "7316--7331",
-    ISBN = "979-8-89176-256-5",
-    abstract = "We introduce , a novel multi-dimensional corpus covering 16 Arabic dialects across 10 domains, resulting in 160 distinct corpora. The corpus comprises about 777k tokens, carefully collected and manually annotated with 21 entity types using both nested and flat annotation schemes - using the Wojood guidelines. While is useful for various NLP tasks like domain adaptation and transfer learning, this paper primarily focuses on benchmarking existing Arabic Named Entity Recognition (NER) models, especially cross-domain and cross-dialect model performance. Our benchmarking of four Arabic NER models using reveals a significant drop in performance of up to 38{\%} when compared to the in-distribution data. Furthermore, we present an in-depth analysis of domain and dialect divergence and the impact of resource scarcity. We also measured the overlap between domains and dialects using the Maximum Mean Discrepancy (MMD) metric, and illustrated why certain NER models perform better on specific dialects and domains. is open-source and publicly available at \url{https://sina.birzeit.edu/wojood/#download}"
+    url = "https://aclanthology.org/2025.arabicnlp-main.14/",
+    doi = "10.18653/v1/2025.arabicnlp-main.14",
+    pages = "179--193",
+    ISBN = "979-8-89176-352-4",
+    abstract = "Information Extraction tasks such as Named Entity Recognition and Relation Extraction are often developed using diverse tagsets and annotation guidelines. This presents major challenges for model generalization, cross-dataset evaluation, tool interoperability, and broader industry adoption. To address these issues, we propose an information extraction ontology, , which covers a wide range of named entity types and relations. serves as a semantic mediation framework that facilitates alignment across heterogeneous tagsets and annotation guidelines. We propose two ontology-based mapping methods: (i) as a set of mapping rules for uni-directional tagset alignment; and (ii) as ontology-based prompting, which incorporates the ontology concepts directly into prompts, enabling large language models (LLMs) to perform more effective and bi-directional mappings. Our experiments show a 15{\%} improvement in out-of-domain mapping accuracy when using ontology-based prompting compared to rule-based methods. Furthermore, is aligned with Schema.org and Wikidata, enabling interoperability with knowledge graphs and facilitating broader industry adoption. The is open source and available at \url{https://sina.birzeit.edu/wojood}."
+}
+
+@inproceedings{akra-etal-2025-active,
+    title = "Active Learning for Multidialectal {A}rabic {POS} Tagging",
+    author = "Akra, Diyam  and
+      Khalilia, Mohammed  and
+      Jarrar, Mustafa",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.1359/",
+    doi = "10.18653/v1/2025.findings-emnlp.1359",
+    pages = "24960--24973",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Multidialectal Arabic POS tagging is challenging due to the morphological richness and high variability among dialects. While POS tagging for MSA has advanced thanks to the availability of annotated datasets, creating similar resources for dialects remains costly and labor-intensive. Increasing the size of annotated datasets does not necessarily result in better performance. Active learning offers a more efficient alternative by prioritizing annotating the most informative samples. This paper proposes an active learning approach for multidialectal Arabic POS tagging. Our experiments revealed that annotating approximately 15,000 tokens is sufficient for high performance. We further demonstrate that using a fine-tuned model from one dialect to guide the selection of initial samples from another dialect accelerates convergence{---}reducing the annotation requirement by about 2,000 tokens. In conclusion, we propose an active learning pipeline and demonstrate that, upon reaching its defined stopping point of 16,000 annotated tokens, it achieves an accuracy of 97.6{\%} on the Emirati Corpus."
+}
+
+@inproceedings{aljabari-etal-2025-wojoodrelations,
+    title = "$\mathrm{Wojood^{Relations}}$: {A}rabic Relation Extraction Corpus and Modeling",
+    author = "Aljabari, Alaa  and
+      Khalilia, Mohammed  and
+      Jarrar, Mustafa",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1741/",
+    doi = "10.18653/v1/2025.emnlp-main.1741",
+    pages = "34342--34360",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Relation extraction (RE) is a core task in natural language processing, crucial for semantic understanding, knowledge graph construction, and enhancing downstream applications. Existing work on Arabic RE remains limited due to the language{'}s rich morphology and syntactic complexity, and the lack of large, high-quality datasets. In this paper, we present $\mathrm{Wojood^{Relations}}$, the largest and most diverse Arabic RE corpus to date, containing over $33K$ sentences ($\sim550K$ tokens) annotated with $\sim15K$ relation triples across 40 relation types. The corpus is built on top of Wojood NER dataset with manual relation annotations carried out by expert annotators, achieving a Cohen{'}s $\kappa$ of 0.92, indicating high reliability. In addition, we propose two methods: NLI-RE, which formulates RE as a binary natural language inference problem using relation-aware templates, and GPT-Joint, a few-shot LLM framework for joint entity and RE via relation-aware retrieval. Finally, we benchmark the dataset using both supervised models and in-context learning with LLMs. Supervised models achieve 92.89{\%} F1 for RE, while LLMs obtain 72.73{\%} F1 for joint entity and RE. These results establish strong baselines, highlight key challenges, and provide a foundation for advancing Arabic RE research."
+}
+
+@inproceedings{khalilia-etal-2024-arabicnlu,
+    title = "{A}rabic{NLU} 2024: The First {A}rabic Natural Language Understanding Shared Task",
+    author = "Khalilia, Mohammed  and
+      Malaysha, Sanad  and
+      Suwaileh, Reem  and
+      Jarrar, Mustafa  and
+      Aljabari, Alaa  and
+      Elsayed, Tamer  and
+      Zitouni, Imed",
+    editor = "Habash, Nizar  and
+      Bouamor, Houda  and
+      Eskander, Ramy  and
+      Tomeh, Nadi  and
+      Abu Farha, Ibrahim  and
+      Abdelali, Ahmed  and
+      Touileb, Samia  and
+      Hamed, Injy  and
+      Onaizan, Yaser  and
+      Alhafni, Bashar  and
+      Antoun, Wissam  and
+      Khalifa, Salam  and
+      Haddad, Hatem  and
+      Zitouni, Imed  and
+      AlKhamissi, Badr  and
+      Almatham, Rawan  and
+      Mrini, Khalil",
+    booktitle = "Proceedings of the Second Arabic Natural Language Processing Conference",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.arabicnlp-1.30/",
+    doi = "10.18653/v1/2024.arabicnlp-1.30",
+    pages = "361--371",
+    abstract = "This paper presents an overview of the Arabic Natural Language Understanding (ArabicNLU 2024) shared task, focusing on two subtasks: Word Sense Disambiguation (WSD) and Location Mention Disambiguation (LMD). The task aimed to evaluate the ability of automated systems to resolve word ambiguity and identify locations mentioned in Arabic text. We provided participants with novel datasets, including a sense-annotated corpus for WSD, called SALMA with approximately 34k annotated tokens, and the dataset with 3,893 annotations and 763 unique location mentions. These are challenging tasks. Out of the 38 registered teams, only three teams participated in the final evaluation phase, with the highest accuracy being 77.8{\%} for WSD and 95.0{\%} for LMD. The shared task not only facilitated the evaluation and comparison of different techniques, but also provided valuable insights and resources for the continued advancement of Arabic NLU technologies."
+}
+
+@inproceedings{malaysha-etal-2024-arafinnlp,
+    title = "{A}ra{F}in{NLP} 2024: The First {A}rabic Financial {NLP} Shared Task",
+    author = "Malaysha, Sanad  and
+      El-Haj, Mo  and
+      Ezzini, Saad  and
+      Khalilia, Mohammed  and
+      Jarrar, Mustafa  and
+      Almujaiwel, Sultan  and
+      Berrada, Ismail  and
+      Bouamor, Houda",
+    editor = "Habash, Nizar  and
+      Bouamor, Houda  and
+      Eskander, Ramy  and
+      Tomeh, Nadi  and
+      Abu Farha, Ibrahim  and
+      Abdelali, Ahmed  and
+      Touileb, Samia  and
+      Hamed, Injy  and
+      Onaizan, Yaser  and
+      Alhafni, Bashar  and
+      Antoun, Wissam  and
+      Khalifa, Salam  and
+      Haddad, Hatem  and
+      Zitouni, Imed  and
+      AlKhamissi, Badr  and
+      Almatham, Rawan  and
+      Mrini, Khalil",
+    booktitle = "Proceedings of the Second Arabic Natural Language Processing Conference",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.arabicnlp-1.34/",
+    doi = "10.18653/v1/2024.arabicnlp-1.34",
+    pages = "393--402",
+    abstract = "The expanding financial markets of the Arab world require sophisticated Arabic NLP tools. To address this need within the banking domain, the Arabic Financial NLP (AraFinNLP) shared task proposes two subtasks: (i) Multi-dialect Intent Detection and (ii) Cross-dialect Translation and Intent Preservation. This shared task uses the updated ArBanking77 dataset, which includes about 39k parallel queries in MSA and four dialects. Each query is labeled with one or more of a common 77 intents in the banking domain. These resources aim to foster the development of robust financial Arabic NLP, particularly in the areas of machine translation and banking chat-bots.A total of 45 unique teams registered for this shared task, with 11 of them actively participated in the test phase. Specifically, 11 teams participated in Subtask 1, while only 1 team participated in Subtask 2. The winning team of Subtask 1 achieved F1 score of 0.8773, and the only team submitted in Subtask 2 achieved a 1.667 BLEU score."
+}
+
+@inproceedings{jarrar-etal-2024-wojoodner,
+    title = "{W}ojood{NER} 2024: The Second {A}rabic Named Entity Recognition Shared Task",
+    author = "Jarrar, Mustafa  and
+      Hamad, Nagham  and
+      Khalilia, Mohammed  and
+      Talafha, Bashar  and
+      Elmadany, AbdelRahim  and
+      Abdul-Mageed, Muhammad",
+    editor = "Habash, Nizar  and
+      Bouamor, Houda  and
+      Eskander, Ramy  and
+      Tomeh, Nadi  and
+      Abu Farha, Ibrahim  and
+      Abdelali, Ahmed  and
+      Touileb, Samia  and
+      Hamed, Injy  and
+      Onaizan, Yaser  and
+      Alhafni, Bashar  and
+      Antoun, Wissam  and
+      Khalifa, Salam  and
+      Haddad, Hatem  and
+      Zitouni, Imed  and
+      AlKhamissi, Badr  and
+      Almatham, Rawan  and
+      Mrini, Khalil",
+    booktitle = "Proceedings of the Second Arabic Natural Language Processing Conference",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.arabicnlp-1.101/",
+    doi = "10.18653/v1/2024.arabicnlp-1.101",
+    pages = "847--857",
+    abstract = "We present WojoodNER-2024, the second Arabic Named Entity Recognition (NER) Shared Task. In WojoodNER-2024, we focus on fine-grained Arabic NER. We provided participants with a new Arabic fine-grained NER dataset called Wojoodfine, annotated with subtypes of entities. WojoodNER-2024 encompassed three subtasks: ($i$) Closed-Track Flat Fine-Grained NER, ($ii$) Closed-Track Nested Fine-Grained NER, and ($iii$) an Open-Track NER for the Israeli War on Gaza. A total of 43 unique teams registered for this shared task. Five teams participated in the Flat Fine-Grained Subtask, among which two teams tackled the Nested Fine-Grained Subtask and one team participated in the Open-Track NER Subtask. The winning teams achieved $F_1$ scores of 91{\%} and 92{\%} in the Flat Fine-Grained and Nested Fine-Grained Subtasks, respectively. The sole team in the Open-Track Subtask achieved an $F_1$ score of 73.7{\%}."
 }
