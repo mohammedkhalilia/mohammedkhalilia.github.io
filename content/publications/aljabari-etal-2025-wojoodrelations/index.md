@@ -1,0 +1,33 @@
+---
+title: '$mathrmWojood^Relations$: Arabic Relation Extraction Corpus and Modeling'
+authors:
+- Alaa Aljabari
+- Mohammed Khalilia
+- Mustafa Jarrar
+date: '2025-11-01'
+publishDate: '2026-05-04T11:36:04.631983Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the 2025 Conference on Empirical Methods in Natural
+  Language Processing*'
+doi: 10.18653/v1/2025.emnlp-main.1741
+abstract: 'Relation extraction (RE) is a core task in natural language processing,
+  crucial for semantic understanding, knowledge graph construction, and enhancing
+  downstream applications. Existing work on Arabic RE remains limited due to the language′s
+  rich morphology and syntactic complexity, and the lack of large, high-quality datasets.
+  In this paper, we present $mathrmWojood^Relations$, the largest and most diverse
+  Arabic RE corpus to date, containing over $33K$ sentences ($∼550K$ tokens) annotated
+  with $∼15K$ relation triples across 40 relation types. The corpus is built on top
+  of Wojood NER dataset with manual relation annotations carried out by expert annotators,
+  achieving a Cohen′s $ąppa$ of 0.92, indicating high reliability. In addition, we
+  propose two methods: NLI-RE, which formulates RE as a binary natural language inference
+  problem using relation-aware templates, and GPT-Joint, a few-shot LLM framework
+  for joint entity and RE via relation-aware retrieval. Finally, we benchmark the
+  dataset using both supervised models and in-context learning with LLMs. Supervised
+  models achieve 92.89% F1 for RE, while LLMs obtain 72.73% F1 for joint entity and
+  RE. These results establish strong baselines, highlight key challenges, and provide
+  a foundation for advancing Arabic RE research.'
+links:
+- name: URL
+  url: https://aclanthology.org/2025.emnlp-main.1741/
+---
