@@ -2,10 +2,11 @@
 title: Synthetic Panels
 summary: Recruiting the right participants for a study can be difficult. You may not get the exact demographics you need, and the shorter the deadline, the less sure you can be that everyone will answer on time. One possible solution can be to use synthetic panels.
 tags:
-  - Deep Learning
+  - Surveys
   - NLP
   - GenAI
-  - Surveys
+  - Deep Learning
+  - Large Language Models
 
 date: '2025-01-11T00:00:00Z'
 

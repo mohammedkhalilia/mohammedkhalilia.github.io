@@ -222,7 +222,7 @@ languages:
 
 awards:
   - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+    awarder: International Medical Informatics Association
+    date: "2015-12-01"
+    summary: Patient Centered Care Coordination Section, Quantifying Care Coordination Using Natural Language Processing and Domain Specific Ontology
     icon: hero/trophy
