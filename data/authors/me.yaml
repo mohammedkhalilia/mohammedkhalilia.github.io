@@ -63,10 +63,26 @@ education:
 
 experience:
   - role: Lead Data Scientist
-    org: Aramco • Saudi Arabia 
+    org: Aramco • Saudi Arabia
     start: 2025-11-08
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  - role: Adjunct Professor
+    org: Birzeit University • Palestine
+    start: 2022-03-01
+    summary: |
+      - Tach Natural Language Processing, Machine Learning and Deep Learning
+      courses to doctoral students.
+      - Advise doctoral students.
+      - Research in Arabic NLP.
+      - Led a team to develop the largest Arabic NER corpus (560K words).
+      - Provide recommendation to the doctoral program (responsibility as a committee member).
+      - Organizer of the Arabic NER shared task at Arabic Natural Language Processing Conference (ArabicNLP), co-located with EMNLP 2023, responsibilities include developing baseline models, preparing Python notebooks and
+      data, author and review publications.
     button:
       text: View portfolio
       url: /
@@ -80,8 +96,17 @@ experience:
       - Led and supervised Qualtrics LLM fine-tuning across multiple projects including Insight Explorer and EX comment summary.
       - Led and developed Qualtrics anonymization model.
       - Mentored multiple junior scientists.
+  - role: Staff Applied Scientist
+    org: Qualtrics XM • Seattle, Washington, USA
+    start: 2025-04-01
+    end: 2025-11-07
+    summary: |
+      - Developed and led Synthetic Panels powered by custom LLMs to generate synthetic responses to surveys.
+      - Led and supervised Qualtrics LLM fine-tuning across multiple projects including Insight Explorer and EX comment summary.
+      - Led and developed Qualtrics anonymization model.
+      - Mentored multiple junior scientists.
   - role: Senior Applied Scientist
-    org: Qualtrics XM • Seattle, Washington, USA 
+    org: Qualtrics XM • Seattle, Washington, USA
     start: 2022-01-10
     end: 2025-03-31
     summary: |
@@ -90,7 +115,7 @@ experience:
       - Led and developed Qualtrics anonymization model.
       - Mentored multiple junior scientists.
   - role: Machine Learning Scientist
-    org: Amazon (Grand Challenge, AWS, Studios)• Seattle, Washington, USA 
+    org: Amazon (Grand Challenge, AWS, Studios)• Seattle, Washington, USA
     start: 2017-07-31
     end: 2022-01-09
     summary: |
@@ -117,7 +142,7 @@ experience:
       - Developing integrative analysis dashboard.
 
   - role: Postdoctoral Fellow
-    org: Georgia Institute of Technology, School of Computational Science & Engineering • Atlanta, Georgia, USA 
+    org: Georgia Institute of Technology, School of Computational Science & Engineering • Atlanta, Georgia, USA
     start: 2014-05-14
     end: 2025-08-31
     summary: |
@@ -145,7 +170,7 @@ experience:
       - Union Chimique Belge (UCB), a pharma company headquartered in Brussels, Belgium,
       - Children’s Healthcare of Atlanta.
   - role: Research Analyst
-    org: University of Missouri-Columbia, School of Medicine • Columbia, Missouri, USA 
+    org: University of Missouri-Columbia, School of Medicine • Columbia, Missouri, USA
     start: 2013-02-01
     end: 2014-05-14
     summary: |
@@ -170,11 +195,11 @@ skills:
         level: 4
       - label: Health informatics
         level: 4
-      - label: Predictive modeling 
+      - label: Predictive modeling
         level: 4
       - label: Cloud Computing
         level: 4
-      - label: MLOps and engineering 
+      - label: MLOps and engineering
         level: 3
   - name: Research & Communication
     items:
