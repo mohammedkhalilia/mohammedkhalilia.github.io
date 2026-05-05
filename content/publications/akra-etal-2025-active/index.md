@@ -9,7 +9,9 @@ publishDate: '2026-05-04T11:36:04.624050Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: EMNLP 2025*'
-doi: 10.18653/v1/2025.findings-emnlp.1359
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2025.findings-emnlp.1359
 abstract: Multidialectal Arabic POS tagging is challenging due to the morphological
   richness and high variability among dialects. While POS tagging for MSA has advanced
   thanks to the availability of annotated datasets, creating similar resources for

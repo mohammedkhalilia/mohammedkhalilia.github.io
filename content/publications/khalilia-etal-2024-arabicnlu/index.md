@@ -13,7 +13,9 @@ publishDate: '2026-05-04T11:36:04.639997Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Second Arabic Natural Language Processing Conference*'
-doi: 10.18653/v1/2024.arabicnlp-1.30
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2024.arabicnlp-1.30
 abstract: 'This paper presents an overview of the Arabic Natural Language Understanding
   (ArabicNLU 2024) shared task, focusing on two subtasks: Word Sense Disambiguation
   (WSD) and Location Mention Disambiguation (LMD). The task aimed to evaluate the

@@ -10,7 +10,9 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 2025 Conference on Empirical Methods in Natural
   Language Processing*'
-doi: 10.18653/v1/2025.emnlp-main.1741
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2025.emnlp-main.1741
 abstract: 'Relation extraction (RE) is a core task in natural language processing,
   crucial for semantic understanding, knowledge graph construction, and enhancing
   downstream applications. Existing work on Arabic RE remains limited due to the language′s

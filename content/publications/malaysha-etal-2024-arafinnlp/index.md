@@ -14,7 +14,9 @@ publishDate: '2026-05-04T11:36:04.647865Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Second Arabic Natural Language Processing Conference*'
-doi: 10.18653/v1/2024.arabicnlp-1.34
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2024.arabicnlp-1.34
 abstract: 'The expanding financial markets of the Arab world require sophisticated
   Arabic NLP tools. To address this need within the banking domain, the Arabic Financial
   NLP (AraFinNLP) shared task proposes two subtasks: (i) Multi-dialect Intent Detection

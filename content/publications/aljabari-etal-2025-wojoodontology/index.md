@@ -11,7 +11,9 @@ publishDate: '2026-05-04T11:36:04.613199Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of The Third Arabic Natural Language Processing Conference*'
-doi: 10.18653/v1/2025.arabicnlp-main.14
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2025.arabicnlp-main.14
 abstract: 'Information Extraction tasks such as Named Entity Recognition and Relation
   Extraction are often developed using diverse tagsets and annotation guidelines.
   This presents major challenges for model generalization, cross-dataset evaluation,

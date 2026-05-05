@@ -9,7 +9,9 @@ publishDate: '2026-05-04T11:36:04.663524Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: ACL 2025*'
-doi: 10.18653/v1/2025.findings-acl.382
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2025.findings-acl.382
 abstract: We introduce , a novel multi-dimensional corpus covering 16 Arabic dialects
   across 10 domains, resulting in 160 distinct corpora. The corpus comprises about
   777k tokens, carefully collected and manually annotated with 21 entity types using
