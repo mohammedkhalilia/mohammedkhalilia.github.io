@@ -1,5 +1,5 @@
 ---
-title: '$mathrmWojood^Relations$: Arabic Relation Extraction Corpus and Modeling'
+title: '$Wojood^{Relations}$: Arabic Relation Extraction Corpus and Modeling'
 authors:
 - Alaa Aljabari
 - Mohammed Khalilia
