@@ -1,6 +1,5 @@
 ---
-title: 'WojoodOntology: Ontology-Driven LLM Prompting for Unified Information Extraction
-  Tasks'
+title: 'WojoodOntology: Ontology-Driven LLM Prompting for Unified Information Extraction Tasks'
 authors:
 - Alaa Aljabari
 - Nagham Hamad
@@ -30,6 +29,10 @@ abstract: 'Information Extraction tasks such as Named Entity Recognition and Rel
   interoperability with knowledge graphs and facilitating broader industry adoption.
   The is open source and available at r̆lhttps://sina.birzeit.edu/wojood.'
 links:
-- name: URL
+- type: URL
   url: https://aclanthology.org/2025.arabicnlp-main.14/
+- type: pdf
+  url: /uploads/2025.arabicnlp-main.14.pdf
+- type: dataset
+  url: https://sina.birzeit.edu/wojood/
 ---

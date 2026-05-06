@@ -37,8 +37,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://www.sciencedirect.com/science/article/abs/pii/S003132031400243X
+  - type: pdf
+    url: /uploads/1-s2.0-S003132031400243X-main.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

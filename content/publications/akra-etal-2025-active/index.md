@@ -27,6 +27,10 @@ abstract: Multidialectal Arabic POS tagging is challenging due to the morphologi
   stopping point of 16,000 annotated tokens, it achieves an accuracy of 97.6% on the
   Emirati Corpus.
 links:
-- name: URL
+- type: URL
   url: https://aclanthology.org/2025.findings-emnlp.1359/
+- type: pdf
+  url: /uploads/2025.findings-emnlp.1359.pdf
+- type: dataset
+  url: https://sina.birzeit.edu/wojood/
 ---

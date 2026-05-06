@@ -44,8 +44,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: URL
     url: https://academic.oup.com/jamia/article/22/e1/e93/701258?g=w_jamia_asia_sidetab
+  - type: pdf
+    url: /uploads/amiajnl-2014-002702.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -26,6 +26,10 @@ abstract: We introduce , a novel multi-dimensional corpus covering 16 Arabic dia
   (MMD) metric, and illustrated why certain NER models perform better on specific
   dialects and domains. is open-source and publicly available at r̆lhttps://sina.birzeit.edu/wojood/#download
 links:
-- name: URL
+- type: URL
   url: https://aclanthology.org/2025.findings-acl.382/
+- type: pdf
+  url: /uploads/2025.findings-acl.382.pdf
+- type: dataset
+  url: https://sina.birzeit.edu/wojood/
 ---

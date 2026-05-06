@@ -41,8 +41,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: URL
     url: https://arxiv.org/abs/2302.03126
+  - type: pdf
+    url: /uploads/2023.gwc-1.31.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

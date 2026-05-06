@@ -39,8 +39,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+  - type: url
+    url: https://aclanthology.org/P19-1091/
   - type: pdf
-    url: https://aclanthology.org/P19-1091.pdf
+    url: /uploads/P19-1091.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

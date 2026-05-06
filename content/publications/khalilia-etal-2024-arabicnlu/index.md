@@ -29,6 +29,8 @@ abstract: 'This paper presents an overview of the Arabic Natural Language Unders
   but also provided valuable insights and resources for the continued advancement
   of Arabic NLU technologies.'
 links:
-- name: URL
+- type: URL
   url: https://aclanthology.org/2024.arabicnlp-1.30/
+- type: pdf
+  url: /uploads/2024.arabicnlp-1.30.pdf
 ---

@@ -38,9 +38,11 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+  - type: URL
+    url: https://ieeexplore.ieee.org/document/6250833/
   - type: pdf
-    url: https://ieeexplore.ieee.org/document/6250833?arnumber=6250833
-
+    url: /uploads/Fuzzy_relational_self-organizing_maps.pdf
+    
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

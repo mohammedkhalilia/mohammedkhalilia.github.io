@@ -38,8 +38,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: URL
     url: https://aclanthology.org/2024.arabicnlp-1.26/
+  - type: pdf
+    url: /uploads/2024.arabicnlp-1.26.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

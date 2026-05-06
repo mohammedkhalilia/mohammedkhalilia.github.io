@@ -31,6 +31,8 @@ abstract: 'The expanding financial markets of the Arab world require sophisticat
   F1 score of 0.8773, and the only team submitted in Subtask 2 achieved a 1.667 BLEU
   score.'
 links:
-- name: URL
+- type: url
   url: https://aclanthology.org/2024.arabicnlp-1.34/
+- type: pdf
+  url: /uploads/2024.arabicnlp-1.34.pdf
 ---

@@ -36,11 +36,10 @@ featured: true
 # Custom links (uncomment lines below)
 # Custom links
 links:
-  - type: pdf
-    url: https://patentimages.storage.googleapis.com/51/a0/ba/a18825fb7109cf/US11848655.pdf
-  - type: patent
+  - type: url
     url: https://patents.google.com/patent/US11848655B1/en
-
+  - type: pdf
+    url: /uploads/US11848655.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

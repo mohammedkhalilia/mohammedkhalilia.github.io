@@ -38,7 +38,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://www.worldscientific.com/doi/abs/10.1142/S0218488514500482
 
 # Featured image

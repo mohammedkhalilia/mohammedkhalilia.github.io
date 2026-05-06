@@ -40,8 +40,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: URL
     url: https://ieeexplore.ieee.org/abstract/document/8999113
+  - type: pdf
+    url: /uploads/Comprehend_Medical_A_Named_Entity_Recognition_and_Relationship_Extraction_Web_Service.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

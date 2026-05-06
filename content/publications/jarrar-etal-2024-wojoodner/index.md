@@ -12,7 +12,9 @@ publishDate: '2026-05-04T11:36:04.655834Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Second Arabic Natural Language Processing Conference*'
-doi: 10.18653/v1/2024.arabicnlp-1.101
+hugoblox:
+  ids:
+    doi: 10.18653/v1/2024.arabicnlp-1.101
 abstract: 'We present WojoodNER-2024, the second Arabic Named Entity Recognition (NER)
   Shared Task. In WojoodNER-2024, we focus on fine-grained Arabic NER. We provided
   participants with a new Arabic fine-grained NER dataset called Wojoodfine, annotated
@@ -25,6 +27,8 @@ abstract: 'We present WojoodNER-2024, the second Arabic Named Entity Recognition
   92% in the Flat Fine-Grained and Nested Fine-Grained Subtasks, respectively. The
   sole team in the Open-Track Subtask achieved an $F_1$ score of 73.7%.'
 links:
-- name: URL
+- type: URL
   url: https://aclanthology.org/2024.arabicnlp-1.101/
+- type: pdf
+  url: /uploads/2024.arabicnlp-1.101.pdf
 ---

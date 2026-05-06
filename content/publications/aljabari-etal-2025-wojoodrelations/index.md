@@ -30,6 +30,10 @@ abstract: 'Relation extraction (RE) is a core task in natural language processin
   RE. These results establish strong baselines, highlight key challenges, and provide
   a foundation for advancing Arabic RE research.'
 links:
-- name: URL
+- type: URL
   url: https://aclanthology.org/2025.emnlp-main.1741/
+- type: pdf
+  url: /uploads/2025.emnlp-main.1741.pdf
+- type: dataset
+  url: https://sina.birzeit.edu/wojood/
 ---

@@ -18,7 +18,6 @@ author_notes:
   - 'Domain expert'
 
 date: '2023-10-01T00:00:00Z'
-doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-10-01T00:00:00Z'
@@ -66,6 +65,14 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+links:
+- type: URL
+  url: https://ieeexplore.ieee.org/abstract/document/10479258
+- type: pdf
+  url: /uploads/Offensive_Hebrew_Corpus_and_Detection_using_BERT.pdf
+- type: dataset
+  url: https://sina.birzeit.edu/resources/
 ---
 
 > [!NOTE]

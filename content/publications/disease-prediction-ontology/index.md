@@ -38,8 +38,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: URL
     url: https://ieeexplore.ieee.org/document/6007410
+  - type: pdf
+    url: /uploads/Improving_disease_prediction_using_ICD-9_ontological_features.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

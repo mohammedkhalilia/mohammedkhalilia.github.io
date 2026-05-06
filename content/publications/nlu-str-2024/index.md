@@ -37,8 +37,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://aclanthology.org/2024.semeval-1.128/
+  - type: pdf
+    url: /uploads/2024.semeval-1.128.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
