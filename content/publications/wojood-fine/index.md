@@ -45,12 +45,14 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+  - type: url
+    url: https://aclanthology.org/2023.arabicnlp-1.25/
   - type: pdf
-    url: https://arxiv.org/abs/2310.17333
+    url: /uploads/2023.arabicnlp-1.25.pdf
   - type: code
     url: https://github.com/SinaLab/ArabicNER
   - type: project
-    url: ttps://sina.birzeit.edu/wojood/
+    url: https://sina.birzeit.edu/wojood/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

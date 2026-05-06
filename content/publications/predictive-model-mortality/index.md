@@ -46,8 +46,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://arxiv.org/abs/1811.12276
+  - type: pdf
+    url: /uploads/1811.12276v2.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

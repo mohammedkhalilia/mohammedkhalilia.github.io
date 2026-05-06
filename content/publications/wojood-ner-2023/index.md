@@ -46,8 +46,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://arxiv.org/abs/2310.16153
+  - type: pdf
+    url: /uploads/2023.arabicnlp-1.83.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

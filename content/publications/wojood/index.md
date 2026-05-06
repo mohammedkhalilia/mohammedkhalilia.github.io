@@ -41,10 +41,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://arxiv.org/abs/2205.09651
+  - type: pdf
+    url: /uploads/2022.lrec-1.387.pdf
   - type: code
     url: https://github.com/SinaLab/ArabicNER
+  - type: dataset
+    url: https://sina.birzeit.edu/resources/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

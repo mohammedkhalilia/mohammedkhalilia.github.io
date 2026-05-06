@@ -44,10 +44,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://arxiv.org/abs/2310.19029
-  - type: project
-    url: https://sina.birzeit.edu/salma/
+  - type: pdf
+    url: /uploads/2023.arabicnlp-1.29.pdf
+  - type: dataset
+    url: https://sina.birzeit.edu/resources/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

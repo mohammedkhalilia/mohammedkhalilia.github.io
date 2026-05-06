@@ -37,8 +37,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://www.sciencedirect.com/science/article/pii/S187705092403014X
+  - type: pdf
+    url: /uploads/1-s2.0-S187705092403014X-main.pdf
+  - type: code
+    url: https://github.com/SinaLab/sinatools
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

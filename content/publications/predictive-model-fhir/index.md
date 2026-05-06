@@ -39,8 +39,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - type: pdf
+  - type: url
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765683/
+  - type: pdf
+    url: /uploads/2248709.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
