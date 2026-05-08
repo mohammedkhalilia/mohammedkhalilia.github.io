@@ -9,7 +9,7 @@ sections:
     content:
       title: Selected Projects
       text: ""
-      count: 6
+      count: 999
       filters:
         folders:
           - projects
