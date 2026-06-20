@@ -16,6 +16,8 @@ links:
   - type: project
     url: https://www.qualtrics.com/support/common-use-case/analyzing-results/insight-explorer/
 
+profile: false
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

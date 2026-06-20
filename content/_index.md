@@ -34,6 +34,16 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: collection
+    id: projects
+    content:
+      title: Selected Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     id: publications
     content:
       title: Featured Publications

@@ -15,6 +15,8 @@ links:
   - type: AutoVC
     url: https://arxiv.org/abs/1905.05879
 
+profile: false
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

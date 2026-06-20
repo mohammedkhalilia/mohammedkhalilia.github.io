@@ -21,6 +21,7 @@ links:
   - type: patent
     url: https://patents.google.com/patent/US11487942B1
     
+profile: false
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

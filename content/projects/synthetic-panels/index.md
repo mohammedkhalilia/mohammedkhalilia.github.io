@@ -20,6 +20,8 @@ links:
   - type: video
     url: https://www.youtube.com/watch?v=fMCuGQCZnek
 
+profile: false
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -12,6 +12,8 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+profile: false
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -24,7 +24,7 @@ cascade:
   - target:
       path: /slides/**
       kind: page
-    outputs: [HTML, present]
+    outputs: [HTML, prfesent]
 
 ############################
 ## ADVANCED

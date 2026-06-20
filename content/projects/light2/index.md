@@ -17,6 +17,8 @@ links:
   - type: site
     url: https://themaneater.com/45648/news/mu-health-system-awarded-133-million-help-aid-pati/
 
+profile: false
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
