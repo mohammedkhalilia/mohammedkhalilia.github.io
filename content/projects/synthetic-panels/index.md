@@ -7,7 +7,7 @@ tags:
   - GenAI
   - Deep Learning
   - Large Language Models
-
+featured: true
 date: '2025-01-11T00:00:00Z'
 
 image:

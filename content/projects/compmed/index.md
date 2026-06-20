@@ -4,7 +4,7 @@ summary: Amazon Comprehend Medical is a HIPAA-eligible natural language processi
 tags:
   - Clinical NLP
   - Deep Learning
-
+featured: true
 date: '2018-01-11T00:00:00Z'
 
 image:

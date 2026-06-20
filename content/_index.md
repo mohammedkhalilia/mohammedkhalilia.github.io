@@ -36,10 +36,12 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Selected Projects
+      title: Featured Projects
+      count: 6
       filters:
         folders:
           - projects
+        featured_only: true
     design:
       view: article-grid
       columns: 3
@@ -47,13 +49,14 @@ sections:
     id: publications
     content:
       title: Featured Publications
+      count: 6
       filters:
         folders:
           - publications
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications

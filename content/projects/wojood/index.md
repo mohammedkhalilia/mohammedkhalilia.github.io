@@ -4,7 +4,7 @@ summary: Wojood consists of about 550K tokens (MSA and dialect) that are manuall
 tags:
   - Arabic NLP
   - Deep Learning
-
+featured: true
 date: '2022-01-01T00:00:00Z'
 
 image:
